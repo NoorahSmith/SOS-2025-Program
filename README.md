@@ -1,6 +1,8 @@
 # USDC Buy/Sell DEX - Complete Project Description
 
 **Deployed Frontend URL:** `http://localhost:3000` (Development)
+
+**Deployed Frontend URL:** `https://usdc-buy-sell-fe.vercel.app/trading` (Production)
 **Solana Program ID:** `9HzagBuheBCfbbXWVhqkYVArBzepy8Mif5rbe7gM257n`
 **Network:** Solana Devnet
 
